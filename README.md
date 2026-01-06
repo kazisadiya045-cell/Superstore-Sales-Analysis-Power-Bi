@@ -21,3 +21,5 @@ The dashboard provides insights on revenue, profit, customer segments, and regio
 - Consumer segment accounted for the largest share of revenue.
 ## Dashboard Preview
 ![Dashboard Screenshot](dashboard.png)
+
+
