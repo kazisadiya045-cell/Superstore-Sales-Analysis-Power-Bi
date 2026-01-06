@@ -20,6 +20,7 @@ The dashboard provides insights on revenue, profit, customer segments, and regio
 - West region contributed maximum sales.
 - Consumer segment accounted for the largest share of revenue.
 ## Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](dashboard.png.png)
+)
 
 
